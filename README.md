@@ -16,7 +16,7 @@ Watch the demo [here](https://drive.google.com/file/d/1Ylk65-2wrIk2a93cwuL8KCYuB
 
 ## Documentation
 
-[Click here](Tiny Tetris Bot.pdf) for the documentation of this project.
+![Click here](Tiny Tetris Bot.pdf) for the documentation of this project.
 
 ## How to Run
 
@@ -28,6 +28,7 @@ pip install discord.py
 ```
 
 2. Create a bot on the Discord Developer Portal, make sure all intents are enabled, and enable Administrator in Bot Permissions. Be sure to save your bot's token.
+Here's a [website](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/) for a full tutorial on hosting your own Discord bot.
 3. Download and extract the zip file from this repository.
 4. Open the folder in VSC.
 5. Under the folder directory in the explorer, right-click > New File.
