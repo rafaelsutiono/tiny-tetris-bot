@@ -1,4 +1,4 @@
-# Tiny Tetris Bot
+# 🎮 Tiny Tetris Bot 🎮
 
 ## Description
 
