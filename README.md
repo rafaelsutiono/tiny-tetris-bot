@@ -12,12 +12,12 @@ The game is played in an interactive way, by using discord reactions as a contro
 ## Video Demonstration
 
 Watch the demo [here](https://drive.google.com/file/d/1Ylk65-2wrIk2a93cwuL8KCYuBMw28OMn/view?usp=sharing).
-<br>
+<br><br>
 
 ## Documentation
 
 [Click here](https://drive.google.com/file/d/1vZLSUDlxMKcHaKiRFW_6vlhZ4WEVieIW/view?usp=sharing) for the documentation of the project.
-<br>
+<br><br>
 
 ## How to Run
 
