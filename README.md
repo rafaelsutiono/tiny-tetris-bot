@@ -14,10 +14,6 @@ The game is played in an interactive way, by using discord reactions as a contro
 Watch the demo [here](https://drive.google.com/file/d/1Ylk65-2wrIk2a93cwuL8KCYuBMw28OMn/view?usp=sharing).
 <br>
 
-## Documentation
-
-[Click here](Tiny Tetris Bot.pdf) for the documentation of this project.
-
 ## How to Run
 
 1. Install the dotenv and discord.py dependencies.
