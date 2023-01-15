@@ -35,4 +35,4 @@ Here's a [website](https://www.freecodecamp.org/news/create-a-discord-bot-with-p
 5. Under the folder directory in the explorer, right-click > New File.
 6. Name the file ```.env```.
 7. In the file, type ```DISCORD_TOKEN = ``` followed by your bot's token.
-8. In ```ttb.py```, click the run button on the top-right corner of the window. The bot should start running.
+8. In ```ttb.py```, click the run button on the top-right corner of the window. The bot should start running, have fun playing with it!
