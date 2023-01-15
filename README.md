@@ -16,7 +16,7 @@ Watch the demo [here](https://drive.google.com/file/d/1Ylk65-2wrIk2a93cwuL8KCYuB
 
 ## Documentation
 
-![Click here](https://docs.google.com/viewer?url=https://github.com/rafaelsutiono/tiny-tetris-bot/blob/main/Tiny%20Tetris%20Bot.pdf) for the documentation of this project.
+[Click here](https://docs.google.com/viewer?url=https://github.com/rafaelsutiono/tiny-tetris-bot/blob/main/Tiny%20Tetris%20Bot.pdf) for the documentation of this project.
 
 ## How to Run
 
