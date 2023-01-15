@@ -1,4 +1,4 @@
-# tiny-tetris-bot
+# Tiny Tetris Bot
 
 ## Description
 
