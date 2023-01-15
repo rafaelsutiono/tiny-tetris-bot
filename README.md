@@ -14,6 +14,10 @@ The game is played in an interactive way, by using discord reactions as a contro
 Watch the demo [here](https://drive.google.com/file/d/1Ylk65-2wrIk2a93cwuL8KCYuBMw28OMn/view?usp=sharing).
 <br>
 
+## Documentation
+
+[Click here](Tiny Tetris Bot.pdf) for the documentation of this project.
+
 ## How to Run
 
 1. Install the dotenv and discord.py dependencies.
@@ -23,5 +27,10 @@ pip install dotenv
 pip install discord.py
 ```
 
-2. Download and extract the zip file from this repository.
-3. zzzzzzzz
+2. Create a bot on the Discord Developer Portal, make sure all intents are enabled, and enable Administrator in Bot Permissions. Be sure to save your bot's token.
+3. Download and extract the zip file from this repository.
+4. Open the folder in VSC.
+5. Under the folder directory in the explorer, right-click > New File.
+6. Name the file ```.env```.
+7. In the file, type ```DISCORD_TOKEN = ``` followed by your bot's token.
+8. In ```ttb.py```, click the run button on the top-right corner of the window. The bot should start running.
