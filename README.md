@@ -14,9 +14,9 @@ The game is played in an interactive way, by using discord reactions as a contro
 Watch the demo [here](https://drive.google.com/file/d/1Ylk65-2wrIk2a93cwuL8KCYuBMw28OMn/view?usp=sharing).
 <br><br>
 
-## Documentation
+## Documentation and Screenshots
 
-[Click here](https://drive.google.com/file/d/1vZLSUDlxMKcHaKiRFW_6vlhZ4WEVieIW/view?usp=sharing) for the documentation of the project.
+[Click here](https://drive.google.com/file/d/1vZLSUDlxMKcHaKiRFW_6vlhZ4WEVieIW/view?usp=sharing) for the documentation and screenshots of the project.
 <br><br>
 
 ## How to Run
