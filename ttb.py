@@ -14,7 +14,7 @@ TOKEN = os.getenv("DISCORD_TOKEN")
 
 # represents the game board as a 2d list
 board = []
-no_of_rows = 18 # represents rows
+no_of_rows = 13 # represents rows
 no_of_cols = 10 # represents columns
 
 # emoji strings in discord to represent differently coloured pieces in tetris
